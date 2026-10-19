@@ -1,6 +1,8 @@
 {
 	"geode": "5.0.0",
-	"gd": "*",
+	"gd": {
+		"win": "2.2081"
+	},
 	"version": "v1.0.0",
 	"id": "bebet.infinite-tps",
 	"name": "Infinite TPS",
