@@ -2,9 +2,9 @@
 	"geode": "5.0.0",
 	"gd": "*",
 	"version": "v1.0.0",
-	"id": "tuusuario.infinite-tps",
+	"id": "bebet.infinite-tps",
 	"name": "Infinite TPS",
-	"developer": "TuUsuario",
+	"developer": "Bebet",
 	"description": "Physics ticks independientes del frame rate, con TPS ajustable hasta valores casi infinitos.",
 	"settings": {
 		"enabled": {
