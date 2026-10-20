@@ -19,7 +19,7 @@
 			"type": "int",
 			"name": "TPS",
 			"description": "Ticks de física por segundo. Vanilla = 240. Más alto = más preciso pero más pesado.",
-			"default": 100000,
+			"default": 240,
 			"min": 240,
 			"max": 1000000
 		},
