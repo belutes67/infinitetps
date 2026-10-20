@@ -21,7 +21,11 @@
 			"description": "Ticks de física por segundo. Vanilla = 240. Más alto = más preciso pero más pesado.",
 			"default": 240,
 			"min": 240,
-			"max": 1000000
+			"max": 1000000,
+			"slider": false,
+			"input": true,
+			"arrow-step": 240,
+			"big-arrow-step": 2400
 		},
 		"max-steps": {
 			"type": "int",
@@ -29,7 +33,9 @@
 			"description": "Límite de seguridad. Si se supera, el juego se ralentiza en vez de congelarse.",
 			"default": 2000,
 			"min": 1,
-			"max": 50000
+			"max": 50000,
+			"slider": false,
+			"input": true
 		}
 	}
 }
